@@ -1,6 +1,5 @@
 # Package-Management-1
 
-Simple overview of use/purpose.
 ## บทคัดย่อ
 
 ## Overview
