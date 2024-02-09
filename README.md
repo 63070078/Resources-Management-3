@@ -1,5 +1,4 @@
-# Package-Management-1
-
+# Resources-Management-3
 ## บทคัดย่อ
 
 ## Overview
@@ -10,8 +9,8 @@
 
 | รหัสนักศึกษา    | ชื่อผู้เขียน     | ส่วนที่รับผิดชอบ  | รูปภาพ |
 |------------|---------------|------------------|---------|
-| 63070078   | นางสาว ธนัชพร รัศมีสุริยะ  | Package Manager | ![รูปภาพ1](link-to-image1) |
-| รหัสนศ2   | ชื่อผู้เขียน 2  | Repository Setup | ![รูปภาพ2](link-to-image2) |
+| 63070078   | นางสาว ธนัชพร รัศมีสุริยะ  | storage manament, memory management | ![รูปภาพ1](link-to-image1) |
+| 63070150   | นาย รามกร วงศ์จันทร์  | cpu management | ![รูปภาพ2](link-to-image2) |
 
 
 ## References
