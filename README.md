@@ -15,8 +15,11 @@
 
 ## References
 
+* [Linux Memory Management](https://lass.cs.umass.edu/~shenoy/courses/spring20/lectures/Lec21.pdf)
+* [Memory management](https://www.ibm.com/docs/en/linux-on-z?topic=performance-memory-management)
+* [Linux Memory Management](https://www.javatpoint.com/linux-memory-management)
+* [Storage Management In Linux](https://tekneed.com/storage-management-in-linux-explained-with-examples/)
+* [Understanding LVM In Linux](https://tekneed.com/understanding-lvm-with-examples-advantages-of-lvm/)
 * [CPU Utilization in Linux](https://phoenixnap.com/kb/check-cpu-usage-load-linux#ftoc-heading-6)
 * [Top command in Linux](https://phoenixnap.com/kb/top-command-in-linux)
 * [An Overview of Package Management in Linux](https://www.linode.com/docs/guides/linux-package-management-overview/)
-* [Package management Ubuntu](https://ubuntu.com/server/docs/package-management)
-
