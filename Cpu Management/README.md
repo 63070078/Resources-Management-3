@@ -6,7 +6,8 @@
 top
 ```
 
-ผลลัพธ์: 
+ผลลัพธ์:
+
 ![alt text](https://github.com/63070078/Resources-Management-3/blob/main/img/top.png?raw=true)
 
 สามารถเลือกใช้ option ต่างๆได้
