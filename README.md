@@ -1,17 +1,16 @@
-# Resources-Management-3
-## บทคัดย่อ
+# Resources-Management
+Resources-Management คือ การจัดการทรัพยากรต่างๆ ที่ระบบปฏิบัติการต้องการใช้งาน เพื่อให้แต่ละโปรแกรมและกระบวนการทำงานได้อย่างมีประสิทธิภาพและไม่มีการชนกันในการใช้ทรัพยากรการจัดการทรัพยากรที่สำคัญมีดังนี้
 
-## Overview
-
-## เนื้อหาสำหรับแต่ละ Subcomponent
+*[CPU Management](https://github.com/63070078/Resources-Management-3/blob/main/Cpu%20Management/README.md)
+*[Memory Management](https://github.com/63070078/Resources-Management-3/blob/main/Memory%20Management/README.md)
+*[Storage Management](https://github.com/63070078/Resources-Management-3/tree/main/Storage%20Management)
 
 ## Contributors สมาชิก 
 
 | รหัสนักศึกษา    | ชื่อผู้เขียน     | ส่วนที่รับผิดชอบ  | รูปภาพ |
 |------------|---------------|------------------|---------|
-| 63070078   | นางสาว ธนัชพร รัศมีสุริยะ  | storage manament, memory management | ![รูปภาพ1](link-to-image1) |
-| 63070150   | นาย รามกร วงศ์จันทร์  | cpu management, หน้าแรก | ![รูปภาพ2](link-to-image2) |
-
+| 63070078   | นางสาว ธนัชพร รัศมีสุริยะ  | storage manament, memory management |
+| 63070150   | นาย รามกร วงศ์จันทร์  | cpu management, หน้าแรก |
 
 ## References
 
