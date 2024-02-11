@@ -1,9 +1,9 @@
 # Resources-Management
 Resources-Management คือ การจัดการทรัพยากรต่างๆ ที่ระบบปฏิบัติการต้องการใช้งาน เพื่อให้แต่ละโปรแกรมและกระบวนการทำงานได้อย่างมีประสิทธิภาพและไม่มีการชนกันในการใช้ทรัพยากรการจัดการทรัพยากรที่สำคัญมีดังนี้
 
-*[CPU Management](https://github.com/63070078/Resources-Management-3/blob/main/Cpu%20Management/README.md)
-*[Memory Management](https://github.com/63070078/Resources-Management-3/blob/main/Memory%20Management/README.md)
-*[Storage Management](https://github.com/63070078/Resources-Management-3/tree/main/Storage%20Management)
+* [CPU Management](https://github.com/63070078/Resources-Management-3/blob/main/Cpu%20Management/README.md)
+* [Memory Management](https://github.com/63070078/Resources-Management-3/blob/main/Memory%20Management/README.md)
+* [Storage Management](https://github.com/63070078/Resources-Management-3/tree/main/Storage%20Management)
 
 ## Contributors สมาชิก 
 
