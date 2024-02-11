@@ -15,7 +15,8 @@
 
 ## References
 
-* []()
+* [CPU Utilization in Linux](https://phoenixnap.com/kb/check-cpu-usage-load-linux#ftoc-heading-6)
+* [Top command in Linux](https://phoenixnap.com/kb/top-command-in-linux)
 * [An Overview of Package Management in Linux](https://www.linode.com/docs/guides/linux-package-management-overview/)
 * [Package management Ubuntu](https://ubuntu.com/server/docs/package-management)
 
