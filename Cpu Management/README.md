@@ -13,6 +13,7 @@ top
 ซึ่งสามารถเลื่อนขึ้นหรือลงด้วยปุ่ม Page up หรือ Page down ได้
 
 
+## Option
 สามารถเลือกใช้ option ต่างๆได้ ดังนี้
 ```
 #help แสดง command syntax ที่สามารถใช้ได้
@@ -28,13 +29,25 @@ top -u | -U [ID or name]
 top -n [X]
 ```
 
-ในขณะที่ top กำลังทำงานสามารถใช้คำสั่งอื่นๆได้ ดังนี้:
+## ในขณะที่ top กำลังทำงานสามารถใช้คำสั่งอื่นๆได้
 k --> การส่งสัญญาณ เมื่อกดปุ่ม k แล้วจะสามารถใส่ค่า PID ของ process นั้นๆได้ หากไม่ใส่คำสั่งสัญญาณ จะเป็นการ kill process นั้นๆ
+![alt text](https://github.com/63070078/Resources-Management-3/blob/main/img/kill.gif)
+
+### การเรียงลำดับ Process
+ค่า default ของ top จะมีการเรียงลำดับจากค่าคอลัมน์ %CPU จากมากไปน้อย
+สามารถใช้คำสั่งอื่นๆ เพื่อเรียงค่าได้ดังนี้
 ```
-k 
-M --> สำหรับ
+- M --> เรียงลำดับโดยใช้ค่า %MEM
+- N --> เรียงลำดับโดยใช้ค่า PID
+- T --> เรียงลำดับโดยใช้ค่า Time
+- P --> เรียงลำดับโดยใช้ค่า %CPU
 ```
-<iframe src="https://giphy.com/embed/gOY0Z7zFZzgvADRXJY" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/gOY0Z7zFZzgvADRXJY">via GIPHY</a></p>
+
+### การเปลี่ยนหน่วย
+สามารถเปลี่ยนหน่วยการแสดงผลได้ตามผู้ใช้ต้องการ โดย ปุ่ม E จะเป็นการเปลี่ยนหน่วยส่วนบนของ top และ e จะเป็นการเปลี่ยนหน่วยส่วน process ของ top
+![E-e](https://github.com/63070078/Resources-Management-3/blob/main/img/eE.gif)
+
+
 ใช้คำสั่ง q เพื่อออกจากการทำงาน
 ```
 q
