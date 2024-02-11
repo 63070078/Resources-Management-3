@@ -31,8 +31,8 @@ top -n [X]
 
 ### ในขณะที่ top กำลังทำงานสามารถใช้คำสั่งอื่นๆได้
 k --> การส่งสัญญาณ เมื่อกดปุ่ม k แล้วจะสามารถใส่ค่า PID ของ process นั้นๆได้ หากไม่ใส่คำสั่งสัญญาณ จะเป็นการ kill process นั้นๆ
-![alt text](https://github.com/63070078/Resources-Management-3/blob/main/img/kill1)
-![alt text](https://github.com/63070078/Resources-Management-3/blob/main/img/kill2)
+![alt text](https://github.com/63070078/Resources-Management-3/blob/main/img/kill1.png)
+![alt text](https://github.com/63070078/Resources-Management-3/blob/main/img/kill2.png)
 
 #### การเรียงลำดับ Process
 ค่า default ของ top จะมีการเรียงลำดับจากค่าคอลัมน์ %CPU จากมากไปน้อย
